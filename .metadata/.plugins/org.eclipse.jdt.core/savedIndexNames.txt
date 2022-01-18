@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\Santri\Desktop\Rafaella\CursoPOO\.metadata\.plugins\org.eclipse.jdt.core
+1502093605.index
+2968224784.index
+1865797976.index
+3354178694.index
+781128115.index
+1592124732.index
